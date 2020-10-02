@@ -97,7 +97,7 @@ class MyApp extends StatelessWidget {
                   ),
                 ),
               ),
-              Card(
+              Card( ///Esta carta fue añadida, corresponde a una red social
                 margin: EdgeInsets.symmetric(
                   vertical: 10.0,
                   horizontal: 25.0,
